@@ -1,4 +1,4 @@
-<img src="banner.png" alt="banner" width="100%">
+<img src="novaimg.jpg" alt="novaimg" width="100%">
 
 # 👋 Olá, eu sou o Artur Emmert
 
