@@ -1,6 +1,6 @@
 <img src="banner.png" alt="banner" width="100%">
 
-# 👋 Olá, eu sou o Atur Emmert
+# 👋 Olá, eu sou o Artur Emmert
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)](https://github.com/SEU_USUARIO)
 
