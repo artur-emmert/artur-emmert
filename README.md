@@ -1,4 +1,4 @@
-<img src="LINK_DE_UMA_IMAGEM_DE_BANNER" alt="Banner" width="100%">
+<img src="banner.png" alt="banner" width="100%">
 
 # 👋 Olá, eu sou o Atur Emmert
 
