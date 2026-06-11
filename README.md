@@ -47,3 +47,53 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+### 🛠️ Ferramentas & Metodologias
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="20%" valign="top"><b>Sistemas & Dev</b></td>
+    <td align="center" width="20%" valign="top"><b>Design & 3D</b></td>
+    <td align="center" width="20%" valign="top"><b>Gestão & Office</b></td>
+    <td align="center" width="20%" valign="top"><b>Inteligência Artificial</b></td>
+    <td align="center" width="20%" valign="top"><b>Metodologias</b></td>
+  </tr>
+  <tr>
+    <!-- Coluna Sistemas & Dev -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black"><br><br>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/VS%20Code-%230078D4.svg?logo=visualstudiocode&logoColor=white">
+    </td>
+    <!-- Coluna Design & 3D -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/AutoCAD-%230696D7.svg?logo=autocad&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Rhinoceros-%23000000.svg?logo=rhinoceros&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
+    </td>
+    <!-- Coluna Gestão & Office -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Trello-%230052CC.svg?logo=trello&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Monday.com-%23FF9900.svg?logo=mondaydotcom&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Excel-%23217346.svg?logo=microsoftexcel&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Google-%234285F4.svg?logo=google&logoColor=white">
+    </td>
+    <!-- Coluna Inteligência Artificial -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/ChatGPT-%2374aa9c.svg?logo=openai&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?logo=googlegemini&logoColor=white"><br><br>
+      <img src="https://img.shields.io/badge/Claude-%23D97757.svg?logo=anthropic&logoColor=white">
+    </td>
+    <!-- Coluna Metodologias -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Scrum-%230052CC.svg"><br><br>
+      <img src="https://img.shields.io/badge/Kanban-%2325A162.svg">
+    </td>
+  </tr>
+</table>
