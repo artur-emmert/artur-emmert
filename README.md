@@ -97,3 +97,31 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-emmert&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-emmert&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180">
+</div>
+
+<br>
+
+### 🤝 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/artur-emmert-cs-pm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:arturemmert0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/_arturemmert" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/5551986865612" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
